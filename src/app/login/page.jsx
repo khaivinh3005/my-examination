@@ -58,7 +58,7 @@ const Login = () => {
       <div className='max-w-md w-full space-y-8'>
         <div>
           <h2
-            className={`mt-6 text-black text-center text-3xl font-extrabold text-[#CF23B8]`}
+            className={`mt-6 text-center text-3xl font-extrabold text-[#CF23B8]`}
           >
             Sign in to your account
           </h2>
