@@ -41,7 +41,6 @@ const Header = ({ toggleDarkMode, isDarkMode }) => {
             stroke-miterlimit='10'
           ></path>
         </svg>
-        <span className='uppercase mt-1'>{t('greeting')}</span>{' '}
         <span className='uppercase mt-1'>digital fortress</span>
       </div>
 
